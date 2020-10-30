@@ -11,6 +11,7 @@ venv/
 backup/
 *.log
 *.pyc
+*.jpg
 OpenNMT/data
 cpp/mnist/build
 cpp/dcgan/build
